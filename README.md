@@ -6,6 +6,7 @@
  - [Recommendations](#recommendations) 
 
 ### Project Overview
+---
 In this project we will analyze the Titanic data and see if there is a correlation between the chances of survival and certain characteristics of each passenger (gender, cabin class, ticket price, etc).
 
 ### Data Sources
