@@ -58,7 +58,7 @@ The analysis results are summarized as follows:
    So, in case of men, younger passengers had a higher chance of survival, but for women, older passengers.
 2. More women survived than men.
 3. Passengers in Class I had higher chances of surviving compared to other classes.
-4. The higher the ticket fare, the higher the survival chances, with no deaths reported for fares higher than $300.Consider the implications of fare class on passenger location, access to lifeboats, or other safety measures. This information could be used to refine safety protocols for passengers with lower fare tickets.
+4. The higher the ticket fare, the higher the survival chances, with no deaths reported for fares higher than $300.
 
 ### Recommendations
 Based on the analysis we recpmmend the following actions:
